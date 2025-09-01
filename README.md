@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [RailMed](https://railmedplatform.netlify.app/)
 
-- 🌱 I’m currently learning **Backend Services**
+- 🌱 I’m currently learning **Backend Services** and **IOT**
 
 - 📫 How to reach me **amnrocks3012@gmail.com**
 
